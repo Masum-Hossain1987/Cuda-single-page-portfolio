@@ -1,0 +1,23 @@
+@ media all and (max-width :768px) {
+    .container{
+        width : 95%;
+    }
+.logo{
+    width: 100%;
+    float: none;
+    margin-bottom: 40px;
+    text-align: center;
+}
+.header-menu ul{
+    float: none;
+   text-align: center;
+
+}
+.header-menu ul li{
+    float: none;
+    display: inline;
+}
+
+
+
+}
